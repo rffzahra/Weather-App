@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">weather application</string>
+    <string name="alert_message" />
+    <string name="alert_title" />
+    <string name="button_yes" />
+    <string name="button_cancel" />
+</resources>
